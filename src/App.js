@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React updated second time
+          Learn React updated second time second
         </a>
       </header>
     </div>
